@@ -1,0 +1,18 @@
+div#box {
+  width: auto;
+  height: 1000px;
+}
+
+#box2{
+  height: fit-content;
+}
+
+#text{
+  position: absolute;
+  
+}
+
+
+
+
+

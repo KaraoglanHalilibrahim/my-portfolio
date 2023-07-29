@@ -1,0 +1,400 @@
+
+
+ul.mens {
+  list-style-type: none;
+}
+
+li.butt {
+    list-style-type: none;
+  width: fit-content;
+  border-style: none;
+  float: left;
+  margin: 20px;
+  background-color:tomato;
+  color: white;
+  
+  
+}
+
+li:hover{
+    color:black;
+    background-color: wheat;
+}
+
+
+body {
+  border-style: solid;
+  position: relative;
+  /* left: 500px; */
+  background-color: none;
+  /* margin: auto;
+  width: auto; */
+}
+
+div.fullbody {
+  border-style: none;
+  min-height: auto;
+  width: 100%;
+}
+
+h1.skills {
+  border-style: none;
+  width: fit-content;
+  margin-left: 200px;
+  position: relative;
+  top: 200px;
+}
+
+p.tre {
+  position: relative;
+  top: 170px;
+  left: 20px;
+}
+
+img.skillimage {
+  position: relative;
+  top: -900px;
+  left: -220px;
+}
+
+div.skillsA {
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+
+div.out1 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+}
+
+div.in1 {
+  border-style: solid;
+  width: 140px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: aqua;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage1 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+div.out2 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+div.in2 {
+  border-style: solid;
+  width: 170px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: wheat;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage2 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+div.out3 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+}
+
+div.in3 {
+  border-style: solid;
+  width: 170px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: darkcyan;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage3 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+h4.status1 {
+  position: relative;
+  left: 360px;
+  top: 60px;
+}
+
+h4.status2 {
+  position: relative;
+  left: 380px;
+  top: 70px;
+}
+
+h4.status3 {
+  position: relative;
+  left: 360px;
+  top: 80px;
+}
+
+div.out4 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+}
+
+div.in4 {
+  border-style: solid;
+  width: 160px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: tomato;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage4 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+div.out5 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+div.in5 {
+  border-style: solid;
+  width: 120px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: aquamarine;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage5 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+div.out6 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+}
+
+div.in6 {
+  border-style: solid;
+  width: 180px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: steelblue;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage6 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+video.skillvideo {
+  width: 100px;
+  position: relative;
+  top: -650px;
+  left: -550px;
+}
+
+img.skillimage3 {
+  width: 130px;
+  height: 300px;
+  position: relative;
+  top: -350px;
+  left: -680px;
+}
+
+div.out7 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+}
+
+div.in7 {
+  border-style: solid;
+  width: 190px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: chartreuse;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage7 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+div.out8 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+  margin: 20px;
+}
+
+div.in8 {
+  border-style: solid;
+  width: 120px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: green;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage8 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+div.out9 {
+  border-style: dotted;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  left: 35px;
+  background-color: white;
+  z-index: -2;
+  border-radius: 20px;
+}
+
+div.in9 {
+  border-style: solid;
+  width: 180px;
+  height: 20px;
+  position: relative;
+  top: -3px;
+  background-color: bisque;
+  z-index: 1;
+  border-radius: 20px;
+}
+
+h4.inMessage9 {
+  position: relative;
+  top: -47px;
+  left: 5px;
+  z-index: 3;
+}
+
+ul.menus{
+  border-style: none;
+  width: 800px;
+  margin-left: 100%;
+}
+
+li.button {
+  list-style-type: none;
+  border-style: none;
+  float: left;
+  margin: 15px;
+  padding-left: 5px;
+  background-color: #068786;
+  font-family: "Foldit", cursive;
+  font-family: "Francois One", sans-serif;
+  color: white;
+  position: relative;
+  left: 15px;
+  width: 90px;
+}
+div.menus {
+  border-style: none;
+  width: 200px;
+  height: 270px;
+  /* background-color: blue; */
+  position: relative;
+}
+
+li.button:hover {
+  background-color: aliceblue;
+  color: black;
+}
+
+a:active {
+  background-color: darkslategrey;
+  color: white;
+}
+
